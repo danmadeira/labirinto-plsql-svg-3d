@@ -66,7 +66,11 @@ Para este desenvolvimento, foram utilizados o VSCodroid (um port do VSCode para 
 
 As IAs foram orientadas a converter o programa original em PHP para uma versão em PL/SQL. Assim como, construir toda a mecânica de navegação pelos labirintos.
 
-### 6. Referências:
+### 6. Exemplo da imagem gerada:
+
+![Labirinto](img/pagina.png?raw=true)
+
+### 7. Referências:
 
 - BALES, D. J. *Beginning Oracle PL/SQL, 2nd Edition*. Apress, 2015.
 
