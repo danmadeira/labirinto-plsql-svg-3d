@@ -78,11 +78,23 @@ As IAs foram orientadas a converter o programa original em PHP para uma versão 
 
 - BELLAMY-ROYDS, A.; CAGLE, K.; STOREY, D. *Using SVG with CSS3 and HTML5: Vector Graphics for Web Design, Second Release*. O'Reilly, 2018.
 
+- DUNN, F.; PARBERRY, I. *3D Math Primer for Graphics and Game Development, Second Edition*. CRC Press, 2011.
+
 - EISENBERG, J. D.; BELLAMY-ROYDS, A. *SVG Essentials, Second Edition*. O'Reilly, 2015.
+
+- HAN, J. *3D Graphics for Game Programming*. CRC Press, 2011.
 
 - JUNEAU, J.; ARENA, M. *Oracle and PL/SQL Recipes: A Problem-Solution Approach*. Apress, 2010.
 
+- LAMPTON, C. *Gardens of Imagination: Programming 3D Maze Games in Borland C++*. Waite Group Press, 1994.
+
+- LENGYEL, E. *Mathematics for 3D Game Programming and Computer Graphics, 3rd Edition*. Course Technology, Cengage Learning, 2012.
+
 - LIBBY, A. *Beginning SVG: A Practical Introduction to SVG using Real-World Examples*. Apress, 2018.
+
+- MACDONALD, M. *Mastering C++ Game Development: Create professional and realistic 3D games using C++ 17*. Packt Publishing, 2018.
+
+- MADHAV, S. *Game Programming in C++: Creating 3D Games*. Pearson Addison-Wesley, 2018.
 
 - MCDONALD, C. et col. *Mastering Oracle PL/SQL: Practical Solutions*. APress Media, LLC, 2004.
 
